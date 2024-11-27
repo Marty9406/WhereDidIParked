@@ -15,10 +15,12 @@ Simple Android application for managing parked cars and their location. It allow
 3. **Explore parking history**: You can view the parking history and explore saved car locations.
 
 ## Permissions
-The app requires location access permission to get your current GPS location:
+The app requires following permissions:
 - **ACCESS_FINE_LOCATION**: For precise location using GPS.
-- **ACCESS_COARSE_LOCATION**: For coarse localization.
-- **READ_MEDIA_IMAGES**: For loading your car images.
+- **ACCESS_COARSE_LOCATION**: For approximate location detection.
+- **READ_MEDIA_IMAGES**: To allow reading car images saved by the user.
+- **INTERNET**: To access online services enabling the proper functionality of the Google Maps API.
+- **ACCESS_NETWORK_STATE**: To check the network status.
 
 ## Installation
 1. Clone this repository to your local PC:
