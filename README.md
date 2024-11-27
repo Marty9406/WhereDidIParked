@@ -20,7 +20,7 @@ The app requires location access permission to get your current GPS location:
 - **ACCESS_COARSE_LOCATION**: For coarse localization.
 - **READ_MEDIA_IMAGES**: For loading your car images.
 
-## Instalation
+## Installation
 1. Clone this repository to your local PC:
    git clone https://github.com/Marty9406/WhereDidIParked.git
 2. Open the project in Android Studio.
@@ -28,10 +28,10 @@ The app requires location access permission to get your current GPS location:
 4. Run the application on the emulator or your own device.
 
 ## Used technology
-SQLite - For storing information about cars and their parking locations.
-Google Maps API and Location API - For location and map display.
-ShaderPreferences - For loading the last viewed car.
-ImagePicker - For choosing image for each of your car.
+- SQLite - For storing information about cars and their parking locations.
+- Google Maps API and Location API - For location and map display.
+- ShaderPreferences - For loading the last viewed car.
+- ImagePicker - For choosing image for each of your car.
 
 ## Purpose
 This is a university project for Design of Applications for Mobile Devices II subject. However, I will be using this application in my free time to easily find my car in a densely populated housing estate, where I park it in a different spot after each work shift.
