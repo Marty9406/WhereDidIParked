@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Where Did I Park?</string>
+    <string name="aboutText">Application for managing the location of users parked cars.\n\nProject contains:\n - GPS location\n - Google maps API\n - SQLite\n - SharedPreferences\n - 6 activities</string>
+    <string name="about">About</string>
+    <string name="aboutTextAuthor">Author: REC0012\nSubject: TAMZ2\nVŠB - Technical University of Ostrava\n2024</string>
+    <string name="add_new_car">Add new car</string>
+    <string name="nameHint">e.g. brand, model, registration number</string>
+    <string name="chooseImage">Choose image</string>
+    <string name="imageNotSelected">Image not selected</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="whereDidIPark">Where Did I Park?</string>
+    <string name="saveLocation">Save location</string>
+    <string name="findCar">Find car</string>
+    <string name="aboutMain">About</string>
+    <string name="arrowRight">▶</string>
+    <string name="arrowLeft">◀</string>
+    <string name="showHistory">Show history</string>
+    <string name="settings">Settings</string>
+    <string name="addNew">+</string>
+    <string name="settingsSettings">Settings</string>
+    <string name="carName">Car name</string>
+    <string name="changeImage">Change image</string>
+    <string name="deleteHistory">Delete parking history</string>
+    <string name="deleteCar">DELETE CAR</string>
+    <string name="addNewCar">Add new car</string>
+</resources>
